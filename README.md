@@ -1,3 +1,6 @@
+We use Firebase for testing reasons (authentication + recipes + ingredients)
+ng-course-recipe-book
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
